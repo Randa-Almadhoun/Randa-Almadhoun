@@ -46,3 +46,9 @@ Engineering autonomy for intelligent robotic systems.
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Randa-Almadhoun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randa-Almadhoun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
+
+
+[![Dr Randa's github stats](https://github-readme-mwendwa.vercel.app/api?username=Randa-Almadhoun&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Randa-Almadhoun&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+ 
+ 
