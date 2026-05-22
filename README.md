@@ -26,8 +26,8 @@ Engineering autonomy for intelligent robotic systems.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://randa-almadhoun.github.io/)
 [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0291-9198)
 [![GOOGLE SCHOLAR](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1XNhZlEAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randa.almadhoun@gmail.com)
 [![RESEARCH GATE](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Randa-Almadhoun)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randa.almadhoun@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Randa-Almadhoun&label=Profile%20views&color=blueviolet&style=for-the-badge)
 
