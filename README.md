@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=35&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=👋+Hello,+I'm+Dr+Randa;🤖+A+Researcher+and+💻+Lecturer)](https://git.io/typing-svg)
 
 
-*Architecting robust, scalable backends and intelligent automation systems.*
+Engineering autonomy for intelligent robotic systems.
 
 <!-- Add your actual links here -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/randa-almadhoun-302ab135/))
