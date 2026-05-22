@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- Add your actual links here -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/randa-almadhoun-302ab135/))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Randa-Almadhoun)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://randa-almadhoun.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randa.almadhoun@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Randa-Almadhoun&label=Profile%20views&color=blueviolet&style=for-the-badge)
