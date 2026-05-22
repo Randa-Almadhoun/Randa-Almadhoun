@@ -39,3 +39,10 @@ Engineering autonomy for intelligent robotic systems.
     <img src="https://skillicons.dev/icons?i=anaconda,arduino,aws,c,cs,cpp,dart,docker,github,java,linux,matlab,py,raspberrypi,ros,js,html,css,blender,tensorflow,visualstudio,vscode,vue,qt,postgres,opencv,nodejs,mongodb,latex,flutter" />
   </a>
 </p>
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Randa-Almadhoun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randa-Almadhoun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
